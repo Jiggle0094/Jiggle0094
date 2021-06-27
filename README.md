@@ -1,2 +1,1 @@
-html and c++ coder,, uses VCS and yeah 
-obama 
+I use VCS and i love obama!
